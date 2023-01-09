@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **backend development**
 
-- 👨‍💻 All of my projects are available at [https://zaveriadi7.github.io/test/](https://zaveriadi7.github.io/test/)
+- 👨‍💻 All of my projects are available at [https://zaveriadi7.github.io/hello](https://zaveriadi7.github.io/hello)
 
 - 📫 How to reach me **adityazaveri7@gmail.com**
 
