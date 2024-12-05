@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adityazaveri7@gmail.com**
 
-- ⚡ What i beleive in **I’m a firm believer that a good cup of coffee is the best debugger for any code!**
+- ⚡ I believe that a good cup of coffee is the best debugger for any code!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
