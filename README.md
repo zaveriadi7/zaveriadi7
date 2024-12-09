@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Vakeel Saab Online](https://vakeelsaab.onrender.com/)
 
-- 🌱 I’m currently learning DevOps and AWS **AWS EC2, AWS RDS AND CDN**
+- 🌱 I’m currently learning **DevOps** and **AWS EC2, AWS RDS AND CDN**
 
 - 👯 I’m looking to collaborate on **TASKNEST**
 
